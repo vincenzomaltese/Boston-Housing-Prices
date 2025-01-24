@@ -1,6 +1,6 @@
 # Boston Housing Prices Prediction
 
-This repository contains a Python project aimed at predicting housing prices in Boston using regression analysis. The project leverages the well-known Boston Housing dataset and focuses on exploratory data analysis (EDA), preprocessing, and building a predictive model using Linear Regression.
+![Boston Housing Prices Prediction](https://github.com/vincenzomaltese/Boston-House-Prices/blob/main/Images/Boston-Housing.jpg)
 
 ## Table of Contents
 
