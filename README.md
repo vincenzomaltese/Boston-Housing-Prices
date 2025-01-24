@@ -6,12 +6,11 @@
 
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
+- [Installation](#running-the-project)
 - [Dataset Description](#dataset-description)
 - [Key Steps](#key-steps)
 - [Results](#results)
 - [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
 
 ---
 
