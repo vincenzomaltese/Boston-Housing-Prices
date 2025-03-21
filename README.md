@@ -1,7 +1,5 @@
 # Boston Housing Prices Prediction
 
-![Boston Housing Prices Prediction](https://github.com/vincenzomaltese/Boston-Housing-Prices/blob/main/Images/Boston_Housing_Prediction_logo.png)
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
